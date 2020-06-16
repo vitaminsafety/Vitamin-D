@@ -11,3 +11,6 @@ Revaluation of the European Food Safety Authority (EFSA)
     1 μg = 40 IE
 
 <a href="https://github.com/vitaminsafety/Vitamin-D/blob/master/Risk%20assessment%20for%20vitamin%20D.pdf">Risk Assessment for Vitamin D</a>
+
+<a href="https://github.com/vitaminsafety/Vitamin-D/blob/master/Colecalciferol.pdf">Überprüfung der freigestellten Tagesdosis Vitamin D zur Anwendung bei Menschen
+</a>
