@@ -7,7 +7,7 @@ Neubewertung der European Food Safety Authority (EFSA)
 • „No observed adverse effect level“ (NOAEL) liegt bei 250 µg "10000 IE" Vitamin D
 täglich [EFSA, 2012]
 
-_________________________________________________________
+########################
 
 Revaluation of the European Food Safety Authority (EFSA)
 
@@ -16,7 +16,8 @@ Revaluation of the European Food Safety Authority (EFSA)
 
 • „No observed adverse effect level“ (NOAEL) is 250 µg "10000 IU" Vitamin D
 daily [EFSA, 2012]
-_________________________________________________________
+
+########################
 
 RISK CHARACTERIZATION
 
@@ -37,6 +38,16 @@ Indeed, there is a lot of room for increased vitamin D intakes without risk of o
 Much larger amounts, up to 2500 µg "100000 IU", have shown no toxicity if
 restricted to 1 occasion per 4 month or daily for a single period of 4 days
 
+########################
+
+In adults, a daily vitamin D dose of 250 µg/day "10000 IU" (range 234-275 µg/day) was considered to reflect a
+no observed adverse effect level (NOAEL). This value was based on only two studies of short
+duration (up to five months) in small samples of healthy young men with minimal sun exposure. To
+take into account the uncertainties associated with this value, an uncertainty factor of 2.5 was chosen,
+and the UL was established at 100 µg/day "4000 IU". It was considered that the UL of 100 µg/day "4000 IU" for adults
+also applies to pregnant and lactating women. This UL is supported by two studies in pregnant and
+lactating women, both using doses of vitamin D2 or D3 up to 100 µg/day for several weeks to months,
+which did not report adverse events for either the mothers or their offspring.
 
 
 *Vitamin D	= IE(IU)
