@@ -66,3 +66,5 @@ which did not report adverse events for either the mothers or their offspring.
 
 <a href="https://github.com/vitaminsafety/Vitamin-D/blob/master/efsa2012.pdf">PDF Dokument -- Scientific Opinion on the Tolerable Upper Intake Level of vitamin D</a>
 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561">LINK -- Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study</a>
+
