@@ -8,6 +8,7 @@ Neubewertung der European Food Safety Authority (EFSA)
 täglich [EFSA, 2012]
 
 _________________________________________________________
+
 Revaluation of the European Food Safety Authority (EFSA)
 
 • Increased the tolerable level of Vitamin D from daily
@@ -15,8 +16,10 @@ Revaluation of the European Food Safety Authority (EFSA)
 
 • „No observed adverse effect level“ (NOAEL) is 250 µg "10000 IU" Vitamin D
 daily [EFSA, 2012]
+_________________________________________________________
 
 RISK CHARACTERIZATION
+
 In conclusion, unfortified foods, fortified foods, and most
 dietary supplements, combined, do not contribute to a total exposure anywhere near 
 the recommended vitamin D Upper Limit of 250 µg "10000 IU" daily. 
