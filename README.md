@@ -10,5 +10,4 @@ Revaluation of the European Food Safety Authority (EFSA)
 *Vitamin D	= IE(IU)
     1 μg = 40 IE
 
-<A HREF="https://github.com/vitaminsafety/Vitamin-D/blob/master/Risk%20assessment%20for%20vitamin%20D.pdf">
-
+<a href="https://github.com/vitaminsafety/Vitamin-D/blob/master/Risk%20assessment%20for%20vitamin%20D.pdf">ok</a>
