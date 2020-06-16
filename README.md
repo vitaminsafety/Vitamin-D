@@ -46,7 +46,7 @@ duration (up to five months) in small samples of healthy young men with minimal 
 take into account the uncertainties associated with this value, an uncertainty factor of 2.5 was chosen,
 and the UL was established at 100 µg/day "4000 IU". It was considered that the UL of 100 µg/day "4000 IU" for adults
 also applies to pregnant and lactating women. This UL is supported by two studies in pregnant and
-lactating women, both using doses of vitamin D2 or D3 up to 100 µg/day for several weeks to months,
+lactating women, both using doses of vitamin D2 or D3 up to 100 µg/day "4000 IU" for several weeks to months,
 which did not report adverse events for either the mothers or their offspring.
 
 
@@ -57,3 +57,5 @@ which did not report adverse events for either the mothers or their offspring.
 
 <a href="https://github.com/vitaminsafety/Vitamin-D/blob/master/Colecalciferol.pdf">PDF Dokument -- Überprüfung der freigestellten Tagesdosis Vitamin D zur Anwendung bei Menschen
 </a>
+
+
