@@ -2,7 +2,7 @@
 Neubewertung der European Food Safety Authority (EFSA)
 
 • Erhöhung der tolerierbaren Gesamtzufuhrmenge an Vitamin D von täglich
-50 µg "2000 IE" auf 100 µg => Verdopplung [EFSA, 2012]
+50 µg "2000 IE" auf 100 µg "4000 IU" => Verdopplung [EFSA, 2012]
 
 • „No observed adverse effect level“ (NOAEL) liegt bei 250 µg "10000 IE" Vitamin D
 täglich [EFSA, 2012]
@@ -12,7 +12,7 @@ _________________________________________________________
 Revaluation of the European Food Safety Authority (EFSA)
 
 • Increased the tolerable level of Vitamin D from daily
-50 µg "2000 IU" to 100 µg "4000 IE"=> double [EFSA, 2012]
+50 µg "2000 IU" to 100 µg "4000 IU"=> double [EFSA, 2012]
 
 • „No observed adverse effect level“ (NOAEL) is 250 µg "10000 IU" Vitamin D
 daily [EFSA, 2012]
