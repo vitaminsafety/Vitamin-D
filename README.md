@@ -9,7 +9,7 @@ täglich [EFSA, 2012]
 
 Wie hoch soll man Vitamin D dosieren?
 
-Um den empfohlenen Blutspiegel von 50-70 ng/ml zu erzielen, sollte man als Faustregel pro 20 kg Körpergewicht 1000 Einheiten Vitamin D pro Tag einnehmen. Wenn also ein Kind zwischen 10 und 20 kg wiegt, sind das 1000 Einheiten pro Tag, ein leichtgewichtiger Erwachsener mit 50 kg sollte 3000 i.E. pro Tag einnehmen und jemand mit 110 kg 6000 i.E. pro Tag. Schwangere und stillende Mütter haben einen höheren Bedarf als 1000 i.E. pro Tag. Von den meisten Experten wird eine tägliche Einnahme gegenüber der wöchentlichen oder monatlichen Hochdosis von 20.000 – 100.000 i.E. bevorzugt.
+Um den empfohlenen Blutspiegel von 50-70 ng/ml zu erzielen, sollte man als Faustregel pro 20 kg Körpergewicht 1000 Einheiten Vitamin D pro Tag einnehmen. Wenn also ein Kind zwischen 10 und 20 kg wiegt, sind das 1000 Einheiten pro Tag, ein leichtgewichtiger Erwachsener mit 50 kg sollte 3000 i.E. pro Tag einnehmen und jemand mit 110 kg 6000 i.E. pro Tag. Schwangere und stillende Mütter haben einen höheren Bedarf als 1000 i.E. je 20kg Körpergewicht pro Tag. Von den meisten Experten wird eine tägliche Einnahme gegenüber der wöchentlichen oder monatlichen Hochdosis von 20.000 – 100.000 i.E. bevorzugt.
 
 Eine Einnahme am Morgen nach dem Frühstück ist zu bevorzugen um einen möglichen Melatonin Einfluss und damit verbundenem schlechten Schlaf zu vermeiden.
 
