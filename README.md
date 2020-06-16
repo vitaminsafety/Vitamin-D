@@ -58,4 +58,5 @@ which did not report adverse events for either the mothers or their offspring.
 <a href="https://github.com/vitaminsafety/Vitamin-D/blob/master/Colecalciferol.pdf">PDF Dokument -- Überprüfung der freigestellten Tagesdosis Vitamin D zur Anwendung bei Menschen
 </a>
 
+<a href="https://github.com/vitaminsafety/Vitamin-D/blob/master/efsa2012.pdf">PDF Dokument -- Scientific Opinion on the Tolerable Upper Intake Level of vitamin D</a>
 
