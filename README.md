@@ -70,3 +70,4 @@ which did not report adverse events for either the mothers or their offspring.
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561">LINK -- Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study</a>
 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541280/>LINK -- The Big Vitamin D Mistake www.ncbi.nlm.nih.gov</a>
