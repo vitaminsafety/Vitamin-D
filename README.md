@@ -71,3 +71,5 @@ which did not report adverse events for either the mothers or their offspring.
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561">LINK -- Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study</a>
 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541280/">LINK -- The Big Vitamin D Mistake www.ncbi.nlm.nih.gov</a>
+
+<a href="https://www.vitad.org/tiki-index.php?page=10%2C000+IU+of+Vitamin+D+taken+daily+for+3+years+is+safe+%E2%80%93+RCT+Nov+2019">LINK --- Safety of High-Dose Vitamin D Supplementation</a>
