@@ -68,7 +68,7 @@ which did not report adverse events for either the mothers or their offspring.
 
 <a href="https://github.com/vitaminsafety/Vitamin-D/blob/master/efsa2018.pdf">PDF Dokument -- Update of the tolerable upper intake level for vitamin D for infants</a>
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561">LINK -- Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study</a>
+<a href="https://github.com/vitaminsafety/Vitamin-D/blob/master/Patterns%20of%20COVID-19%20Mortality%20and%20Vitamin%20D%20An%20Indonesian%20Study.pdf">PDF -- Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study</a>
 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541280/">LINK -- The Big Vitamin D Mistake www.ncbi.nlm.nih.gov</a>
 
